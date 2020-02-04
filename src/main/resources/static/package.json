@@ -9,7 +9,7 @@
         "src/main/resources/static/vendor"
     ],
     "dependencies": {
-        "bower": "1.7.2"
+        "bower": "1.8.8"
     },
     "devDependencies": {
         "grunt": "0.4.5",
